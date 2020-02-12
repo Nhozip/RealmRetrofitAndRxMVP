@@ -1,7 +1,7 @@
 {
-  "idNew":"",
   "isExit": true,
-  "showMoreApp": true,
+  "showMoreApp": false,
+  "idNew": "",
   "apps": [
     {
       "id": "com.WASticker.WAStickerAppsMemes",
