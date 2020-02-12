@@ -1,8 +1,12 @@
-[
-  {
-    "id": "fdfdsfsfs",
-    "icon": "sfsdfdsfsf",
-    "name": "dsfdsf",
-    "des": "sdfsfs"
-  }
-]
+{
+  "isExit": true,
+  "showMoreApp": true,
+  "apps": [
+    {
+      "id": "com.WASticker.WAStickerAppsMemes",
+      "icon": "https://lh3.googleusercontent.com/kfCMKFz6gFJtREUKoT1RNRFdGjDpCRByIYYi3h-WXmaCZVDqMW4RiUeTnUHkJtNqZ9c=s360-rw",
+      "name": "WAStickerApps Memes - WAStickerApps",
+      "des": "#Top Sticker 2020"
+    }
+  ]
+}
