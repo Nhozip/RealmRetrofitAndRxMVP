@@ -1,19 +1,27 @@
 {
+  "ads": {
+    "id_app": "5e437d2d79dff95524083273",
+    "banner_setting": "ca-app-pub-3082814971751832/2672936624",
+    "inter_setting": "ca-app-pub-3082814971751832/7733691612",
+    "banner_main": "ca-app-pub-3082814971751832/9343593663",
+    "inter_main": "ca-app-pub-3082814971751832/8999920608",
+
+    "banner_setting_new": "ca-app-pub-4084941899768286/1718245583",
+    "inter_setting_new": "ca-app-pub-4084941899768286/4542901230",
+    "banner_main_new": "ca-app-pub-4084941899768286/8290574552",
+    "inter_main_new": "ca-app-pub-4084941899768286/1725166205",
+    "onlyAdmod": false,
+    "onlyFB": true,
+    "fb_banner": "",
+    "fb_inter": ""
+  },
   "isExit": true,
-  "showMoreApp": true,
+  "showMoreApp": false,
   "idNew": "",
-  "apps": [
-    {
-      "id": "com.WASticker.WAStickerAppsMemes",
-      "icon": "https://lh3.googleusercontent.com/kfCMKFz6gFJtREUKoT1RNRFdGjDpCRByIYYi3h-WXmaCZVDqMW4RiUeTnUHkJtNqZ9c=s360-rw",
-      "name": "WAStickerApps Memes - WAStickerApps",
-      "des": "#Top Sticker 2020"
-    },
-    {
-      "id": "com.wa.stickermaker.stickermakerforwhatsapp",
-      "icon": "https://lh3.googleusercontent.com/NI5XL2GMBkPnJS9dGk_deNuzHCnUAr5Tx0j4TFZDAav7iqUZlpOrJt3n6KDT8Dipdg=s360-rw",
-      "name": "Sticker Maker - sticker maker for whatsapp’ app",
-      "des": "#Top Sticker Maker"
-    }
-  ]
+  "app_exists": {
+    "id": "com.king.candycrushsaga",
+    "is_exists": true,
+    "is_show_more": true
+  },
+  "apps": []
 }
